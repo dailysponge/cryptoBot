@@ -6,7 +6,7 @@ module.exports.binancecoin = {
         url: 'https://coingecko.p.rapidapi.com/simple/price',
         params: {ids: 'binancecoin', vs_currencies: 'usd'},
         headers: {
-          'x-rapidapi-key': 'cabbd638damsh8bc1ed6e5ab5f83p12bb20jsna647ab8f601d',
+          'x-rapidapi-key': 'YOUR_KEY',
           'x-rapidapi-host': 'coingecko.p.rapidapi.com'
         } 
       };
